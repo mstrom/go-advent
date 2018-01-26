@@ -1,4 +1,4 @@
-PROJECT?=github.com/rumyantseva/advent-2017
+PROJECT?=github.com/strom/go-advent
 APP?=advent
 PORT?=8001
 
